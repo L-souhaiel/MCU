@@ -1,0 +1,15 @@
+[submodule "ArduinoUno/C-Arduino-Oled-ssd1306"]
+	path = ArduinoUno/C-Arduino-Oled-ssd1306
+	url = https://github.com/TitiLouati/C-Arduino-Oled-ssd1306
+[submodule "ArduinoUno/C-Arduino-TFminiLidarI2C"]
+	path = ArduinoUno/C-Arduino-TFminiLidarI2C
+	url = https://github.com/TitiLouati/C-Arduino-TFminiLidarI2C
+[submodule "Raspberry Pi Pico/ProgrammableI-O/C-Raspi-Pico-PIO-CANBus"]
+	path = Raspberry Pi Pico/ProgrammableI-O/C-Raspi-Pico-PIO-CANBus
+	url = https://github.com/TitiLouati/C-Raspi-Pico-PIO-CANBus
+[submodule "Raspberry Pi Pico/Sensors/C-Raspi-Pico-Sensor-MPU6050"]
+	path = Raspberry Pi Pico/Sensors/C-Raspi-Pico-Sensor-MPU6050
+	url = https://github.com/TitiLouati/C-Raspi-Pico-Sensor-MPU6050
+[submodule "ST/C-stm32f446-CANBus-Normal-Mode"]
+	path = ST/C-stm32f446-CANBus-Normal-Mode
+	url = https://github.com/TitiLouati/C-stm32f446-CANBus-Normal-Mode
